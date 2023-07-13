@@ -1,5 +1,7 @@
 # Laravel Airbrake
 
+This is a fork of the original hard work of Theo Kouzelis https://github.com/TheoKouzelis/laravel-airbrake
+
 This is a Laravel service provider for the latest Airbrake PHP package https://github.com/airbrake/phpbrake
 
 The service provider will configure an instance of Airbrake\Notifier with an ID, key and environment name.
