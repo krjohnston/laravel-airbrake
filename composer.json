@@ -1,5 +1,5 @@
 {
-    "name": "kouz/laravel-airbrake",
+    "name": "krjohnston/laravel-airbrake",
     "description": "Laravel service provider for Airbrake https://github.com/airbrake/phpbrake",
     "keywords": ["airbrake", "laravel"],
     "require": {
@@ -16,7 +16,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Kouz\\LaravelAirbrake\\": "src/"
+            "Krjohnston\\LaravelAirbrake\\": "src/"
         }
     },
     "minimum-stability": "dev",
@@ -24,7 +24,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Kouz\\LaravelAirbrake\\ServiceProvider"
+                "Krjohnston\\LaravelAirbrake\\ServiceProvider"
             ]
         }
     }

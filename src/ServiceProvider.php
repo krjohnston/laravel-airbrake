@@ -1,6 +1,6 @@
 <?php
 
-namespace Kouz\LaravelAirbrake;
+namespace Krjohnston\LaravelAirbrake;
 
 use Airbrake\Notifier;
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
